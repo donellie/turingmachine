@@ -1,0 +1,2 @@
+2 states1.txt alphabt1.txt rules1.txt input11.txt input12.txt input13.txt
+5 XXX YYY ZZZ UUU WWW VVV SSS
