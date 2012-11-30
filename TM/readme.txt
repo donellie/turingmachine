@@ -1,3 +1,6 @@
+Thanks to Alex Vinokur for his help with this one.
+My team and I modfied the code to sui our project.
+
 
   ===============================================
   ----- Turing Machine (C++ Implementation) -----
